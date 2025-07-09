@@ -1,0 +1,5 @@
+Django
+djangorestframework
+google-cloud-storage
+python-dotenv
+django-storages
